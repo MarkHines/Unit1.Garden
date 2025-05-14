@@ -1,9 +1,10 @@
 #level-1 {
   display: grid;
-  grid-template-areas: 
+  grid-template-columns: 2fr 2fr;
+  /* grid-template-areas: 
     "peas onions"
     "tomatoes lettuce"
-    "carrots .";
+    "carrots ."; */
 }
 
 #level-2{
